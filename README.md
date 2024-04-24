@@ -1,12 +1,10 @@
 # Summary
 Junior Game Developer, with experience in Unity and C# and involved in projects deployed to Android and iOS. Fluent English with professional experience in bilingual customer support. Masters Degree in International Relations.
 
-    Programming Skills = OOP, Debugging, Event Handling, Serialization, Asynchronous Programming (with UniTask), Coroutines, Generics, Error Handling, Extension Methods, REST, Reactive Programming (with UniRX)
-    Still learning: Reflection, Unity DOTS and Multiplayer.
-
-    Experience intergrating: Firebase, Bluetooth Low Energy, and MQTT into Unity.
-
-    Design Patterns = Object Pool, MVC, Command, Factory, Singleton, Strategy, Finite State Machines, GOAP (Goal Action Oriented Planning).
+- _Programming Skills_ = OOP, Debugging, Event Handling, Serialization, Asynchronous Programming (with UniTask), Coroutines, Generics, Error Handling, Extension Methods, REST, Reactive Programming (with UniRX).
+- _Still learning:_ Reflection, ShaderGraph. To Learn: Multiplayer, Unity DOTS.
+- _Design Patterns_ = Object Pool, MVC, Command, Factory, Singleton, Strategy, Finite State Machines, GOAP (Goal Action Oriented Planning).
+- _Experience in Unity:_ UniTask, UniRx, Cinemachine, Legacy & New Input System, Unity Localization & I2 Localization, Unity Navigation & A Star Pathfinding Project, URP & HDRP, Firebase SDK, WebView, MQTT and REST integration, BLE Integration, AR Foundation.
 
 # Completed Projects
 - [**Mark**](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
