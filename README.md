@@ -2,7 +2,9 @@
 
 
 # Completed Projects
-
+- [**Mark**](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
+  
+Mark is an Android and iOS Digital Twin app that integrates Arkmeds' CMMS (Computerized Maintenance Management System) and Hardware products into one handheld solution for its business-to-business clients.
 
 # Personal Projects
 - [**Pazaak50**](https://github.com/jorlmn/Pazaak50-CS50-Final-Project)
