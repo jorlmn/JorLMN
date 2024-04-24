@@ -1,5 +1,12 @@
 # Summary
+Junior Game Developer, with experience in Unity and C# and involved in projects deployed to Android and iOS. Fluent English with professional experience in bilingual customer support. Masters Degree in International Relations.
 
+Programming Skills = OOP, Debugging, Event Handling, Serialization, Asynchronous Programming (with UniTask), Coroutines, Generics, Error Handling, Extension Methods, REST, Reactive Programming (with UniRX)
+Still learning: Reflection, Unity DOTS and Multiplayer.
+
+Experience intergrating Firebase, Bluetooth Low Energy, and MQTT into Unity.
+
+Design Patterns = Object Pool, MVC, Command, Factory, Singleton, Strategy, Finite State Machines, GOAP (Goal Action Oriented Planning).
 
 # Completed Projects
 - [**Mark**](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
@@ -15,6 +22,6 @@ Pazaak50 is a Flask-based remake of the Star Wars Card Game, completed using Pyt
 
 - [**SalaBranca**](https://github.com/jorlmn/SalaBranca_Unity)
   
-Prototype for a Hospital Room, where the user can inspect and interact with the medical equipment.
+Prototype for a Hospital Room, where the user can inspect and interact with medical equipment.
 
 ![image](https://github.com/jorlmn/JorLMN/assets/114875835/d4d11db8-25d2-4838-8265-1c986759570b)
