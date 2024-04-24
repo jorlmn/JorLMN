@@ -5,7 +5,7 @@ Junior Game Developer, with experience in Unity and C# and involved in projects 
 - **Design Patterns** = _Object Pool, MVC, Command, Factory, Singleton, Strategy, Finite State Machines, GOAP (Goal Action Oriented Planning)._
 - **Experience in Unity** = _UniTask, UniRx, Cinemachine, Legacy & New Input System, Unity Localization & I2 Localization, Unity Navigation & A Star Pathfinding Project, URP & HDRP, Firebase SDK, WebView, MQTT and REST integration, BLE Integration, AR Foundation._
 - **Still Learning** = _Reflection, ShaderGraph._
-- **To Learn** = _Multiplayer, Unity DOTS._
+- **To Learn** = _Multiplayer, Unity DOTS, UI Toolkit_
 
 # Completed Projects
 - [**Mark**](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
