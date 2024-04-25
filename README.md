@@ -3,7 +3,7 @@ Junior Game Developer, with experience in Unity and C# and involved in projects 
 
 - **Programming Skills** = _OOP, Debugging, Event Handling, Serialization, Asynchronous Programming (with UniTask), Coroutines, Generics, Error Handling, Extension Methods, REST, Reactive Programming (with UniRX), LINQ._
 - **Design Patterns** = _Object Pool, MVC, Command, Factory, Singleton, Strategy, Finite State Machines, GOAP (Goal Action Oriented Planning)._
-- **Experience in Unity** = _UniTask, UniRx, Cinemachine, Legacy & New Input System, Unity Localization & I2 Localization, Unity Navigation & A Star Pathfinding Project, URP & HDRP, Firebase SDK, WebView, MQTT and REST integration, BLE Integration, AR Foundation._
+- **Experience in Unity** = _UniTask, UniRx, Cinemachine, Scriptable Objects, Legacy & New Input System, Unity Localization & I2 Localization, Unity Navigation & A Star Pathfinding Project, URP & HDRP, Firebase SDK, WebView, MQTT and REST Integration, BLE Integration, AR Foundation._
 - **Still Learning** = _Reflection, ShaderGraph._
 - **To Learn** = _Multiplayer, Unity DOTS, UI Toolkit, and beyond._
 
@@ -35,6 +35,3 @@ Currently I am working on a singleplayer Grand Strategy game inspired by Total W
 ![image](https://github.com/jorlmn/JorLMN/assets/114875835/17d39710-9d94-42f3-ac32-fcc39426deeb)
 
 ![image](https://github.com/jorlmn/JorLMN/assets/114875835/170325e1-eb5c-4eb1-9656-fd8eb4de2eec)
-
-
-
