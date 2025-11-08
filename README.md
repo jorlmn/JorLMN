@@ -9,7 +9,14 @@ Game Developer, with experience in Unity and C# and involved in projects deploye
   
 Made in Unity, Mark is an Android and iOS Digital Twin app that integrates Arkmeds' CMMS (Computerized Maintenance Management System) and Hardware products into one handheld solution for its business-to-business clients.
 
-# Finished Personal Projects
+# Personal Projects
+- [**Grand Strategy Faction Territories - November 2025**](https://github.com/jorlmn/GrandStrategyFactionTerritories)
+  
+Prototype for Paradox-like territory maps in Unity. For educational purposes and meant to be a starting-point for those that want to create their own grand strategy games in Unity and are having difficulties on where to start.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7efa6ed4-bc17-4054-8e70-ec49c5a53afe" />
+<br><br>
+
 - [**Pazaak50 - December 2022**](https://github.com/jorlmn/Pazaak50-CS50-Final-Project)
   
 Pazaak50 is a Flask-based remake of the Star Wars Card Game, completed using Python, JavaScript and SQL.
