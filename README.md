@@ -9,8 +9,6 @@ Game Developer, with experience in Unity and C# and involved in projects deploye
   
 Made in Unity, Mark is an Android and iOS Digital Twin app that integrates Arkmeds' CMMS (Computerized Maintenance Management System) and Hardware products into one handheld solution for its business-to-business clients.
 
-![image](https://github.com/jorlmn/JorLMN/assets/114875835/618e61cb-9144-4e70-9916-559448240b78)
-
 # Finished Personal Projects
 - [**Pazaak50 - December 2022**](https://github.com/jorlmn/Pazaak50-CS50-Final-Project)
   
