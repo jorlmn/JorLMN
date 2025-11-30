@@ -17,6 +17,13 @@ Prototype for Paradox-like territory maps in Unity. For educational purposes and
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7efa6ed4-bc17-4054-8e70-ec49c5a53afe" />
 <br><br>
 
+- [**Procedural Area of Effect Shader - November 2025**](https://github.com/jorlmn/ProceduralAreaOfEffect-Unity)
+
+Shader for procedural AOE, inspired by Battlefleet Gothic: Armada 2 areas of effect. Several settings in the shader that allow you to configure it to dynamically fit the AOEs of your abilities / spells / explosions, without creating meshes on runtime
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0955c682-d9db-411f-a038-a9812e350519" />
+<br><br>
+
 - [**Pazaak50 - December 2022**](https://github.com/jorlmn/Pazaak50-CS50-Final-Project)
   
 Pazaak50 is a Flask-based remake of the Star Wars Card Game, completed using Python, JavaScript and SQL.
